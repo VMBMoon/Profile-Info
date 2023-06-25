@@ -26,4 +26,4 @@
   <img src="https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
   
-  ![Snake animation](https://github.com/VMBMoon/VMBMoon/blob/output/github-contribution-grid-snake.svg) </div>
+  ![Snake animation](https://github.com/VMBMoon/Profile-Info/blob/output/github-contribution-grid-snake.svg) </div>
